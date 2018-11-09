@@ -1,45 +1,53 @@
-# This references the default golang container from
-# the Docker Hub: https://registry.hub.docker.com/u/library/golang/
-# If you want Google's container you would reference google/golang
-# Read more about containers on our dev center
-# https://devcenter.wercker.com/overview-and-core-concepts/containers/
 box: golang
-# This is the build pipeline. Pipelines are the core of wercker
-# Read more about pipelines on our dev center
-# https://devcenter.wercker.com/development/pipelines/
 
-# You can also use services such as databases. Read more on our dev center:
-# https://devcenter.wercker.com/administration/services/
-# services:
-    # - postgres
-    # https://devcenter.wercker.com/administration/services/examples/postgresql/
-
-    # - mongo
-    # https://devcenter.wercker.com/administration/services/examples/mongodb/
-build:
-  # The steps that will be executed on build
-  # Steps make up the actions in your pipeline
-  # Read more about steps on our dev center:
-  # https://devcenter.wercker.com/development/steps/
+dev:
   steps:
-    # Sets the go workspace and places you package
-    # at the right place in the workspace tree
-    - setup-go-workspace
+    - setup-go-workspace:
+      package-dir: github.com/xfcheng0122/hello-world
 
-    # Gets the dependencies
+    - script:
+      name: env
+      code: env
+
+    - script:
+      name: go get
+      code: |
+        cd $WERCKER_SOURCE_DIR
+        go version
+        go get -u github.com/Masterminds/glide
+        export PATH=$WERCKER_SOURCE_DIR/bin:$PATH
+        glide install
+
+    - internal/watch:
+      code: go run main.go
+      reload: true
+
+build:
+  steps:
+    - setup-go-workspace:
+      package-dir: github.com/xfcheng0122/hello-world
+
+    - script:
+      name: env
+      code: env
+
     - script:
         name: go get
         code: |
-          go get
+          cd $WERCKER_SOURCE_DIR
+          go version
+          go get -u github.com/Masterminds/glide
+          export PATH=$WERCKER_SOURCE_DIR/bin:$PATH
+          glide install
 
     # Build the project
     - script:
         name: go build
         code: |
-          go build ./...
+          go build
 
     # Test the project
     - script:
         name: go test
         code: |
-          go test ./...
+          go test -v $(glide novendor)
