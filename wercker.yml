@@ -51,3 +51,28 @@ build:
         name: go test
         code: |
           go test -v $(glide novendor)
+
+    - script:
+      name: copy files to wercker output
+      code: |
+        cp -R ./ ${WERCKER_SOURCE_DIR}
+
+deploy:
+  steps:
+    - internal/docker-push:
+      username: $DOCKER_USERNAME
+      password: $DOCKER_PASSWORD
+      cmd: /pipeline/source/hello
+      port: "8080"
+      tag: latest
+      repository: cloudnativego/book-hello
+      registery: https://registry.hub.docker.com
+
+    - cng/cf-deploy:
+      api: $API
+      user: $USER
+      password: $PASSWORD
+      org: $ORG
+      space: $SPACE
+      appname: wercker-step-hello
+      docker_image: cloudnativego/book-hello
