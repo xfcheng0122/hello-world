@@ -5,12 +5,6 @@ owners:
   - name: Xuefei Cheng
     email: xfcheng0122@gmail.com
     homepace: https://github.com/xfcheng0122/hello-world
-ignore:
-  - appengine
-excludeDirs:
-  - node_modules
 import:
   - package: gopkg.in/yaml.v2
-testImport:
-  - package: github.com/arshles/assert
 
