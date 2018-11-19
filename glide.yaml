@@ -1,0 +1,10 @@
+package: github.com/xfcheng0122/hello-world
+homepace: https://github.com/xfcheng0122/hello-world
+license: MIT
+owners:
+  - name: Xuefei Cheng
+    email: xfcheng0122@gmail.com
+    homepace: https://github.com/xfcheng0122/hello-world
+import:
+  - package: gopkg.in/yaml.v2
+
