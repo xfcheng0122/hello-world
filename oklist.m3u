@@ -1,0 +1,464 @@
+#EXTM3U
+
+#EXTINF:0,US-TSN Sport 1
+http://configuration.tn:8000/ale9005/sl6492/1257
+
+#EXTINF:0,US-TSN 3
+http://configuration.tn:8000/ale9005/sl6492/2641
+
+#EXTINF:0,US-TSN 4
+http://configuration.tn:8000/ale9005/sl6492/2640
+
+#EXTINF:0,US-TSN 5
+http://configuration.tn:8000/ale9005/sl6492/2639
+
+#EXTINF:0,US-ESPN
+http://configuration.tn:8000/ale9005/sl6492/2730
+
+#EXTINF:0,USA:NFL_now
+http://configuration.tn:8000/ale9005/sl6492/2078
+
+#EXTINF:0,USA-NBCSN sport
+http://configuration.tn:8000/ale9005/sl6492/2116
+
+#EXTINF:0,US-MSNBC
+http://configuration.tn:8000/ale9005/sl6492/1625
+
+#EXTINF:0,USA-NBA
+http://configuration.tn:8000/ale9005/sl6492/2385
+
+#EXTINF:0,USA-CNN_Live
+http://configuration.tn:8000/ale9005/sl6492/2806
+
+#EXTINF:0,US-CNN_live(BK)
+http://configuration.tn:8000/ale9005/sl6492/3657
+
+#EXTINF:0,USA-ABC_News
+http://configuration.tn:8000/ale9005/sl6492/1063
+
+#EXTINF:0,USA-Fox_News
+http://configuration.tn:8000/ale9005/sl6492/1910
+
+#EXTINF:0,USA_Al-jazeera
+http://configuration.tn:8000/ale9005/sl6492/1536
+
+#EXTINF:0,US-Bravo HD
+http://configuration.tn:8000/ale9005/sl6492/2732
+
+#EXTINF:0,USA-AMC HD
+http://configuration.tn:8000/ale9005/sl6492/2113
+
+#EXTINF:0,US-CBSN
+http://configuration.tn:8000/ale9005/sl6492/2737
+
+#EXTINF:0,USA-HBO2
+http://configuration.tn:8000/ale9005/sl6492/3871
+
+#EXTINF:0,USA-spike
+http://configuration.tn:8000/ale9005/sl6492/2101
+
+#EXTINF:0,CA-hallmark
+http://configuration.tn:8000/ale9005/sl6492/3671
+
+#EXTINF:0,US_Bein_USA
+http://configuration.tn:8000/ale9005/sl6492/3676
+
+#EXTINF:0,US-USA Network
+http://configuration.tn:8000/ale9005/sl6492/4122
+
+#EXTINF:0,USA:FOOD network
+http://configuration.tn:8000/ale9005/sl6492/2087
+
+#EXTINF:0,USA-CBN_HD
+http://configuration.tn:8000/ale9005/sl6492/2097
+
+#EXTINF:0,USA-Fox Sports Ohio
+http://configuration.tn:8000/ale9005/sl6492/2103
+
+#EXTINF:0,US_Cinema 02
+http://configuration.tn:8000/ale9005/sl6492/5525
+
+#EXTINF:0,US_Cinema 03
+http://configuration.tn:8000/ale9005/sl6492/5524
+
+#EXTINF:0,US_Cinema 06
+http://configuration.tn:8000/ale9005/sl6492/5521
+
+#EXTINF:0,US_Cinema 07
+http://configuration.tn:8000/ale9005/sl6492/5520
+
+#EXTINF:0,US_Cinema 08
+http://configuration.tn:8000/ale9005/sl6492/5519
+
+#EXTINF:0,US_Cinema 12
+http://configuration.tn:8000/ale9005/sl6492/5515
+
+#EXTINF:0,US_Cinema 13
+http://configuration.tn:8000/ale9005/sl6492/5514
+
+#EXTINF:0,US_Cinema 14
+http://configuration.tn:8000/ale9005/sl6492/5513
+
+#EXTINF:0,US_Cinema 18
+http://configuration.tn:8000/ale9005/sl6492/5509
+
+#EXTINF:0,US_Cinema 23
+http://configuration.tn:8000/ale9005/sl6492/5504
+
+#EXTINF:0,US_Cinema 30
+http://configuration.tn:8000/ale9005/sl6492/5497
+
+#EXTINF:0,US_HBO Plus West HD
+http://configuration.tn:8000/ale9005/sl6492/5480
+
+#EXTINF:0,US_HBO Signature HD
+http://configuration.tn:8000/ale9005/sl6492/5479
+
+#EXTINF:0,US_MoreMax HD
+http://configuration.tn:8000/ale9005/sl6492/5477
+
+#EXTINF:0,US_Starz Cinema HD
+http://configuration.tn:8000/ale9005/sl6492/5469
+
+#EXTINF:0,US_Starz Comedy HD
+http://configuration.tn:8000/ale9005/sl6492/5467
+
+#EXTINF:0,US_Starz Edge HD
+http://configuration.tn:8000/ale9005/sl6492/5465
+
+#EXTINF:0,US_Starz Encore Family HD
+http://configuration.tn:8000/ale9005/sl6492/5458
+
+#EXTINF:0,US_Starz Encore HD
+http://configuration.tn:8000/ale9005/sl6492/5457
+
+#EXTINF:0,US_5 StarMax HD
+http://configuration.tn:8000/ale9005/sl6492/5449
+
+#EXTINF:0,US-Fox5
+http://configuration.tn:8000/ale9005/sl6492/5543
+
+#EXTINF:0,UK-Sky_Sports-News
+http://configuration.tn:8000/ale9005/sl6492/2223
+
+#EXTINF:0,UK: Sky Sports News HD
+http://configuration.tn:8000/ale9005/sl6492/874
+
+#EXTINF:0,UK-Sports(main events) B
+http://configuration.tn:8000/ale9005/sl6492/2971
+
+#EXTINF:0,UK-Sports(cricket)
+http://configuration.tn:8000/ale9005/sl6492/421
+
+#EXTINF:0,UK-UK-Sports(cricket) B
+http://configuration.tn:8000/ale9005/sl6492/2972
+
+#EXTINF:0,UK-Sports(Action)
+http://configuration.tn:8000/ale9005/sl6492/420
+
+#EXTINF:0,UK-Sports(Action) B
+http://configuration.tn:8000/ale9005/sl6492/2973
+
+#EXTINF:0,UK-Sports(golf)
+http://configuration.tn:8000/ale9005/sl6492/419
+
+#EXTINF:0,UK-Sports(golf) b
+http://configuration.tn:8000/ale9005/sl6492/2974
+
+#EXTINF:0,UK-Sports_Football
+http://configuration.tn:8000/ale9005/sl6492/2228
+
+#EXTINF:0,UK-sky_sport_F1
+http://configuration.tn:8000/ale9005/sl6492/2014
+
+#EXTINF:0,UK-Eir_Sport_1
+http://configuration.tn:8000/ale9005/sl6492/3118
+
+#EXTINF:0,UK-Eir_Sport_2
+http://configuration.tn:8000/ale9005/sl6492/2308
+
+#EXTINF:0,UK-Premier Sports
+http://configuration.tn:8000/ale9005/sl6492/2153
+
+#EXTINF:0,UK-Racing
+http://configuration.tn:8000/ale9005/sl6492/2016
+
+#EXTINF:0,UK-Box_Nation
+http://configuration.tn:8000/ale9005/sl6492/1595
+
+#EXTINF:0,UK-Sports_Arena
+http://configuration.tn:8000/ale9005/sl6492/4875
+
+#EXTINF:0,UK-BT_Sport1 HD
+http://configuration.tn:8000/ale9005/sl6492/1308
+
+#EXTINF:0,UK-BT_Sport2 HD
+http://configuration.tn:8000/ale9005/sl6492/1309
+
+#EXTINF:0,UK-BT Sport 3 HD
+http://configuration.tn:8000/ale9005/sl6492/6134
+
+#EXTINF:0,UK-BT-Espn
+http://configuration.tn:8000/ale9005/sl6492/1594
+
+#EXTINF:0,UK-Eurosport1_HD
+http://configuration.tn:8000/ale9005/sl6492/3830
+
+#EXTINF:0,UK-Eurosport2_HD
+http://configuration.tn:8000/ale9005/sl6492/3829
+
+#EXTINF:0,UK-Liverpool_FC
+http://configuration.tn:8000/ale9005/sl6492/2209
+
+#EXTINF:0,UK-AtThe-Races
+http://configuration.tn:8000/ale9005/sl6492/396
+
+#EXTINF:0,UK-Motors_TV
+http://configuration.tn:8000/ale9005/sl6492/2216
+
+#EXTINF:0,UK-True_M1
+http://configuration.tn:8000/ale9005/sl6492/2203
+
+#EXTINF:0,UK: True Movies 2
+http://configuration.tn:8000/ale9005/sl6492/2202
+
+#EXTINF:0,UK-MUTV
+http://configuration.tn:8000/ale9005/sl6492/379
+
+#EXTINF:0,UK-Pick
+http://configuration.tn:8000/ale9005/sl6492/2225
+
+#EXTINF:0,UK-GOLD
+http://configuration.tn:8000/ale9005/sl6492/2220
+
+#EXTINF:0,UK-Dave
+http://configuration.tn:8000/ale9005/sl6492/2213
+
+#EXTINF:0,UK-E4
+http://configuration.tn:8000/ale9005/sl6492/2210
+
+#EXTINF:0,UK-Watch
+http://configuration.tn:8000/ale9005/sl6492/2204
+
+#EXTINF:0,UK-BBC1
+http://configuration.tn:8000/ale9005/sl6492/1302
+
+#EXTINF:0,UK-BBC2
+http://configuration.tn:8000/ale9005/sl6492/1303
+
+#EXTINF:0,UK-BBC3_HD
+http://configuration.tn:8000/ale9005/sl6492/1920
+
+#EXTINF:0,UK-CBBC
+http://configuration.tn:8000/ale9005/sl6492/1921
+
+#EXTINF:0,UK-SKY-NEWS
+http://configuration.tn:8000/ale9005/sl6492/417
+
+#EXTINF:0,UK_france24_news
+http://configuration.tn:8000/ale9005/sl6492/1538
+
+#EXTINF:0,UK_NHK news
+http://configuration.tn:8000/ale9005/sl6492/1539
+
+#EXTINF:0,UK-BE3
+http://configuration.tn:8000/ale9005/sl6492/1911
+
+#EXTINF:0,UK-CHANNEL4
+http://configuration.tn:8000/ale9005/sl6492/1922
+
+#EXTINF:0,UK-CHANNEL5
+http://configuration.tn:8000/ale9005/sl6492/1923
+
+#EXTINF:0,UK-Select_HD
+http://configuration.tn:8000/ale9005/sl6492/2218
+
+#EXTINF:0,UK-SCI-FI
+http://configuration.tn:8000/ale9005/sl6492/2221
+
+#EXTINF:0,UK-MBO MOVIES-EN
+http://configuration.tn:8000/ale9005/sl6492/2219
+
+#EXTINF:0,UK-Sky_Modern Greats
+http://configuration.tn:8000/ale9005/sl6492/436
+
+#EXTINF:0,UK-Sky-LivingIt
+http://configuration.tn:8000/ale9005/sl6492/1610
+
+#EXTINF:0,UK-Crime & Inv
+http://configuration.tn:8000/ale9005/sl6492/1619
+
+#EXTINF:0,UK-Cinema_Thriller
+http://configuration.tn:8000/ale9005/sl6492/213
+
+#EXTINF:0,UK-Sky_Premiere
+http://configuration.tn:8000/ale9005/sl6492/218
+
+#EXTINF:0,UK-HOME&HEALTH
+http://configuration.tn:8000/ale9005/sl6492/426
+
+#EXTINF:0,UK-SKY-Syfy
+http://configuration.tn:8000/ale9005/sl6492/425
+
+#EXTINF:0,UK-RTE1
+http://configuration.tn:8000/ale9005/sl6492/427
+
+#EXTINF:0,UK-TG4
+http://configuration.tn:8000/ale9005/sl6492/2975
+
+#EXTINF:0,UK-RTE TWO
+http://configuration.tn:8000/ale9005/sl6492/3315
+
+#EXTINF:0,UK-RTE_news
+http://configuration.tn:8000/ale9005/sl6492/275
+
+#EXTINF:0,UK-Atlantic
+http://configuration.tn:8000/ale9005/sl6492/422
+
+#EXTINF:0,UK-Alibi
+http://configuration.tn:8000/ale9005/sl6492/219
+
+#EXTINF:0,UK-Sky_Arts
+http://configuration.tn:8000/ale9005/sl6492/217
+
+#EXTINF:0,UK-Sky_movies_Family
+http://configuration.tn:8000/ale9005/sl6492/216
+
+#EXTINF:0,UK-Drama_Rom
+http://configuration.tn:8000/ale9005/sl6492/215
+
+#EXTINF:0,UK-Sky-Mv_Disney
+http://configuration.tn:8000/ale9005/sl6492/214
+
+#EXTINF:0,UK-Sky_Comedy
+http://configuration.tn:8000/ale9005/sl6492/212
+
+#EXTINF:0,UK-Sky_Action
+http://configuration.tn:8000/ale9005/sl6492/211
+
+#EXTINF:0,UK-COMEDY_CENTRAL
+http://configuration.tn:8000/ale9005/sl6492/2151
+
+#EXTINF:0,UK-sky_one
+http://configuration.tn:8000/ale9005/sl6492/1865
+
+#EXTINF:0,UK-sky two
+http://configuration.tn:8000/ale9005/sl6492/2394
+
+#EXTINF:0,UK-Quest
+http://configuration.tn:8000/ale9005/sl6492/2033
+
+#EXTINF:0,UK-E!
+http://configuration.tn:8000/ale9005/sl6492/2032
+
+#EXTINF:0,UK-Disc_History
+http://configuration.tn:8000/ale9005/sl6492/381
+
+#EXTINF:0,UK-Discovery-Sc
+http://configuration.tn:8000/ale9005/sl6492/2211
+
+#EXTINF:0,UK-Discovery_Turbo
+http://configuration.tn:8000/ale9005/sl6492/2017
+
+#EXTINF:0,UK-Discovery_CH
+http://configuration.tn:8000/ale9005/sl6492/2018
+
+#EXTINF:0,UK-Animal_Planet
+http://configuration.tn:8000/ale9005/sl6492/2015
+
+#EXTINF:0,UK-Nat-Geo
+http://configuration.tn:8000/ale9005/sl6492/392
+
+#EXTINF:0,UK-NAT-GEO-WILD
+http://configuration.tn:8000/ale9005/sl6492/393
+
+#EXTINF:0,UK-FOX-News
+http://configuration.tn:8000/ale9005/sl6492/389
+
+#EXTINF:0,UK-ScFi-Horror
+http://configuration.tn:8000/ale9005/sl6492/233
+
+#EXTINF:0,UK-H2
+http://configuration.tn:8000/ale9005/sl6492/248
+
+#EXTINF:0,UK-CBS_Reality
+http://configuration.tn:8000/ale9005/sl6492/230
+
+#EXTINF:0,UK-CBS Drama
+http://configuration.tn:8000/ale9005/sl6492/229
+
+#EXTINF:0,UK-BIKE
+http://configuration.tn:8000/ale9005/sl6492/2150
+
+#EXTINF:0,UK-cbeebies
+http://configuration.tn:8000/ale9005/sl6492/2100
+
+#EXTINF:0,UK-Baby_TV
+http://configuration.tn:8000/ale9005/sl6492/3583
+
+#EXTINF:0,UK-Nick Toons
+http://configuration.tn:8000/ale9005/sl6492/2212
+
+#EXTINF:0,UK-Nick_JR
+http://configuration.tn:8000/ale9005/sl6492/2215
+
+#EXTINF:0,UK-BOOMERANG
+http://configuration.tn:8000/ale9005/sl6492/2031
+
+#EXTINF:0,UK-Disney_XD
+http://configuration.tn:8000/ale9005/sl6492/384
+
+#EXTINF:0,UK-Disney_Junior+1
+http://configuration.tn:8000/ale9005/sl6492/378
+
+#EXTINF:0,UK-Disney_Channel
+http://configuration.tn:8000/ale9005/sl6492/383
+
+#EXTINF:0,UK:Nickelodeon
+http://configuration.tn:8000/ale9005/sl6492/1587
+
+#EXTINF:0,UK_Sky_Cartoon_Network
+http://configuration.tn:8000/ale9005/sl6492/1589
+
+#EXTINF:0,UK-Sky_fox
+http://configuration.tn:8000/ale9005/sl6492/2489
+
+#EXTINF:0,UK-NICK JR.TOO
+http://configuration.tn:8000/ale9005/sl6492/2486
+
+#EXTINF:0,UK-3E
+http://configuration.tn:8000/ale9005/sl6492/2488
+
+#EXTINF:0,UK-Food Network
+http://configuration.tn:8000/ale9005/sl6492/2490
+
+#EXTINF:0,UK-5USA
+http://configuration.tn:8000/ale9005/sl6492/2085
+
+#EXTINF:0,UK-ITV1_HD
+http://configuration.tn:8000/ale9005/sl6492/249
+
+#EXTINF:0,UK-ITV2
+http://configuration.tn:8000/ale9005/sl6492/234
+
+#EXTINF:0,UK-ITV3_HD
+http://configuration.tn:8000/ale9005/sl6492/236
+
+#EXTINF:0,UK-ITV4
+http://configuration.tn:8000/ale9005/sl6492/235
+
+#EXTINF:0,UK-Itv_Be
+http://configuration.tn:8000/ale9005/sl6492/2224
+
+#EXTINF:0,UK-More4
+http://configuration.tn:8000/ale9005/sl6492/358
+
+#EXTINF:0,CA-Assemble Nationale
+http://configuration.tn:8000/ale9005/sl6492/2383
+
+#EXTINF:0,CA-cartoon
+http://configuration.tn:8000/ale9005/sl6492/2389
+
+#EXTINF:0,CA-TOMATO TV
+http://configuration.tn:8000/ale9005/sl6492/2384
+
