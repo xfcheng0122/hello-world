@@ -1,4 +1,4 @@
-Jenkinsfile (Declarative Pipeline)
+//Jenkinsfile (Declarative Pipeline)
 pipeline {
     //agent { node 'windows' }
     //agent { node 'CentOS8' }
