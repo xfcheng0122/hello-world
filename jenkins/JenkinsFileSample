@@ -1,0 +1,16 @@
+agent
+stages
+stage
+steps
+Also, these are the available directives:
+
+environment (Defined at stage or pipeline level)
+input (Defined at stage level)
+options (Defined at stage or pipeline level)
+parallel
+parameters
+post
+script
+tools
+triggers
+when
