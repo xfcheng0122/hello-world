@@ -5,7 +5,8 @@ pipeline {
     //agent { docker 'python:3.5.1' }
     //agent { docker 'maven:3.3.3' }
     //agent { docker 'node:6.3' }
-    agent { docker 'ruby' }
+    //agent { docker 'ruby' }
+    agent { docker 'php' }
     stages {
         stage('build') {
             steps {
@@ -13,7 +14,8 @@ pipeline {
                 //sh 'python --version'
                 //sh 'mvn --version'
                 //sh 'npm --version'
-                sh 'ruby --version'
+                //sh 'ruby --version'
+                sh 'php --version'
             }
         }
     }
