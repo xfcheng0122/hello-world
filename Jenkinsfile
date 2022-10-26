@@ -1,6 +1,6 @@
 //Jenkinsfile (Declarative Pipeline)
 pipeline {
-    agent { node 'Built-In Node' }
+    agent { node 'windows' }
     stages {
         stage('build') {
             steps {
