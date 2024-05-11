@@ -1,4 +1,4 @@
-2.tcp.ngrok.io 10152
+0.tcp.ngrok.io 10152
 Server:		8.8.8.8
 Address:	8.8.8.8#53
 
