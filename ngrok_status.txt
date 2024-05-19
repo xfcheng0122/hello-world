@@ -4,5 +4,5 @@ Address:	8.8.8.8#53
 
 Non-authoritative answer:
 Name:	2.tcp.ngrok.io
-Address: 3.22.53.161
+Address: 13.59.15.185
 
