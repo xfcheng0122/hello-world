@@ -1,8 +1,1 @@
-2.tcp.ngrok.io 10152
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	2.tcp.ngrok.io
-Address: 52.14.18.129
 
