@@ -1,8 +1,1 @@
-0.tcp.ngrok.io 11099
-Server:		8.8.8.8
-Address:	8.8.8.8#53
-
-Non-authoritative answer:
-Name:	0.tcp.ngrok.io
-Address: 3.134.39.220
 
