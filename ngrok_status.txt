@@ -1,8 +1,8 @@
-4.tcp.ngrok.io 16857
+6.tcp.ngrok.io 15807
 Server:		192.168.1.1
 Address:	192.168.1.1#53
 
 Non-authoritative answer:
-Name:	4.tcp.ngrok.io
-Address: 3.138.180.119
+Name:	6.tcp.ngrok.io
+Address: 3.132.159.158
 
