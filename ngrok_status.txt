@@ -4,5 +4,5 @@ Address:	192.168.1.1#53
 
 Non-authoritative answer:
 Name:	6.tcp.ngrok.io
-Address: 18.189.106.45
+Address: 3.141.210.37
 
