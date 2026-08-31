@@ -1,4 +1,2 @@
--e null
-Address:	192.168.1.1#53
+-e 
 
-** server can't find null: NXDOMAIN
